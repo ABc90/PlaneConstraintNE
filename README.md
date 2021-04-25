@@ -9,3 +9,5 @@ The code was trained by PCPNet Dataset
  
 ###### 3. Train
 To train a model run "train_pcpnet_multi.py" and you also can use  a trained model named "mask_res_mpdels_0.5_0.5__multi2" to test.
+
+you can obtain the trained model and the results via BaiduYun link: https://pan.baidu.com/s/1atfx5lJ5-cGquzE83ltxqw  code: 5cdu
